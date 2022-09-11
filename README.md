@@ -4,6 +4,10 @@ This is a terminal application that prompts the user to enter their blood group 
 
 <br>
 
+![BloodGroupChecker Application Screenshot](https://github.com/chandrasreasgop/BloodGroupChecker/blob/master/bloodgroupchecker_thumbnail.png?raw=true "BloodGroupChecker Application")
+
+<br>
+
 ### Interal Packages: 
 The following internal packages have been used in this terminal application:
 - sys
