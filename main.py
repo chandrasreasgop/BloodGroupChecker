@@ -6,7 +6,7 @@ from colorama import *
 colorama.init(autoreset=True)
 
 print('\n\n')
-appname = pyfiglet.figlet_format("BloodInfo")
+appname = pyfiglet.figlet_format("BloodGroupInfo")
 companyname = pyfiglet.figlet_format("By  Technophilia  Limited", font='digital')
 print(appname)
 print(companyname)

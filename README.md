@@ -1,4 +1,4 @@
-# BloodGroupChecker
+# BloodGroupInfo
 
 This is a terminal application that prompts the user to enter their blood group and displays informative content regarding their blood group and it's compatibility. The BloodGroupChecker terminal application is entirely made using the Python Programming Language. 
 
