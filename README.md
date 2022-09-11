@@ -8,6 +8,15 @@ This is a terminal application that prompts the user to enter their blood group 
 
 <br>
 
+### Before you Execute:
+Copy and paste the following commands to download the packages that this program depend on.
+
+``pip install pyfiglet         `` 
+
+``pip install colorama         ``
+
+<br>
+
 ### Interal Packages: 
 The following internal packages have been used in this terminal application:
 - sys
