@@ -4,7 +4,7 @@ This is a terminal application that prompts the user to enter their blood group 
 
 <br>
 
-![BloodGroupChecker Application Screenshot](https://github.com/chandrasreasgop/BloodGroupChecker/blob/master/bloodgroupchecker_thumbnail.png?raw=true "BloodGroupChecker Application")
+![BloodGroupChecker Application Screenshot](https://github.com/chandrasreasgop/BloodGroupChecker/blob/master/bloodgroupinfo_thumbnail.png?raw=true "BloodGroupChecker Application")
 
 <br>
 
